@@ -46,18 +46,18 @@ https://git-scm.com/download
 
 # 🎁 Extras
 
-- git branch nome_da_branch [criar uma nova linha de tempo]
-- git checkout nome_da_branch [mudar para uma linha de tempo]
-- git checkout master [ver todas as linhas do tempo] 
-- git branch [listar todas as linhas de tempo]
-- git merge nome_da_branch [Unir linhas de tempo]
-- git branch -D nome_da_branch [Deletar uma branch]
-- git -remote -v [Para ver os meus repositórios]
-- git config credential.helper store [Sem precisar fazer login sempre que fizer um push]
-- git clone https://github.com/user_name/nome_do_repositorio.git [Clonar um repositório na sua máquina local]
-- git checkout -b test [Criar uma branch nova e mudar logo para lá]
-- git commit -am "update ficheiros" [Adicionar e commitar]
-- git checkout número_do_ponto -- nome_do_arquivo_deletado [Para recuperar um arquivo perdido que ainda está na linha de tempo, use o git log para verificar se consta na linha de tempo]
+- ```git branch nome_da_branch``` [criar uma nova linha de tempo]
+- ```git checkout nome_da_branch``` [mudar para uma linha de tempo]
+- ```git checkout master``` [ver todas as linhas do tempo] 
+- ```git branch``` [listar todas as linhas de tempo]
+- ```git merge nome_da_branch``` [Unir linhas de tempo]
+- ```git branch -D nome_da_branch``` [Deletar uma branch]
+- ```git -remote -v``` [Para ver os meus repositórios]
+- ```git config credential.helper store``` [Sem precisar fazer login sempre que fizer um push]
+- ```git clone https://github.com/user_name/nome_do_repositorio.git``` [Clonar um repositório na sua máquina local]
+- ```git checkout -b test``` [Criar uma branch nova e mudar logo para lá]
+- ```git commit -am "update ficheiros"``` [Adicionar e commitar]
+- ```git checkout número_do_ponto -- nome_do_arquivo_deletado``` [Para recuperar um arquivo perdido que ainda está na linha de tempo, use o git log para verificar se consta na linha de tempo]
 
 
 
